@@ -34,29 +34,7 @@ The agent helps users troubleshoot common IT issues, provides step-by-step solut
 
 ## Troubleshooting Flows
 
-### 1. Internet Issues
-- Checks Wi-Fi or network connection
-- Tests internet access
-- Suggests router restart
-- Escalates if unresolved
-
-### 2. Slow Computer
-- Checks running applications
-- Suggests closing unnecessary programs
-- Recommends restarting the device
-- Escalates if unresolved
-
-### 3. Login Problems
-- Verifies username and password
-- Suggests password reset
-- Checks account status
-- Escalates if unresolved
-
-### 4. Email Issues
-- Identifies email service
-- Checks internet connection
-- Troubleshoots send/receive errors
-- Escalates if unresolved
+<img width="1408" height="768" alt="IMG_0628" src="https://github.com/user-attachments/assets/13c746a0-9f1d-4b28-b96a-1a32830c0c92" />
 
 ---
 
