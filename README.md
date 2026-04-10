@@ -87,7 +87,25 @@ All scenarios successfully triggered correct troubleshooting paths and escalatio
 ---
 
 ## Screenshots
-(Add your screenshots here)
+
+## Email Flow Screenshot
+<img width="1083" height="661" alt="Email flow" src="https://github.com/user-attachments/assets/88a24926-f30d-4b54-a2dc-c66a8cee5b3b" />
+
+
+## Internet Flow Screenshot
+<img width="1069" height="737" alt="Internet flow" src="https://github.com/user-attachments/assets/dd9cf3e2-88e6-4c4a-a043-aa58e1d0df96" />
+
+## Login Flow Screenshot
+<img width="1051" height="723" alt="Login flow" src="https://github.com/user-attachments/assets/6b421be1-f0ec-4c93-998e-c1bdcfd3d393" />
+
+## Slow Computer Flow
+<img width="1060" height="735" alt="Slow computer flow" src="https://github.com/user-attachments/assets/2116a631-34ae-46a1-8fa4-5b6e59ff138c" />
+
+## Ticket Classification Flow 
+<img width="1012" height="670" alt="Ticket classification flow" src="https://github.com/user-attachments/assets/ff9d21a9-0e02-476a-8d34-62fe61660403" />
+
+## Welcome Flow 
+<img width="1073" height="728" alt="Welcome flow" src="https://github.com/user-attachments/assets/8024d260-a853-4927-a968-863d14a5edb6" />
 
 ---
 
