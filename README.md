@@ -1,206 +1,106 @@
-# IT-Support-Copilot-Agent
-
-
-
+# IT Support Copilot Agent
 
 ## Overview
-
-This project is an AI-powered IT Support Assistant built using Microsoft Copilot Studio.  
-
-The agent helps users troubleshoot common IT issues, provides step-by-step solutions, and automates ticket classification.
-
-
+This project is an AI-powered IT Support Assistant built using Microsoft Copilot Studio.
+The agent helps users troubleshoot common IT issues, provides step-by-step solutions, and automates ticket classification for faster support resolution.
 
 ---
-
-
 
 ## Features
-
 - Interactive chatbot for IT support
-
 - Troubleshooting flows for:
-
-  - Internet issues
-
-  - Slow computer
-
-  - Login problems
-
-  - Email issues
-
-- Ticket classification:
-
-  - Category (Network, Software, Access, etc.)
-
-  - Priority (Low, Medium, High)
-
-  - Suggested team assignment
-
-- Escalation to human support when needed
-
-
+- Internet issues
+- Slow computer performance
+- Login problems
+- Email issues
+- Ticket classification system:
+- Issue category (Network, Software, Access, Hardware)
+- Priority level (Low, Medium, High)
+- Suggested support team
+- Escalation to human IT support when needed
+- Knowledge base support using SOP documents
 
 ---
 
-
-
-## How to Use
-
-1. Start the agent
-
-2. Type your issue (e.g. "my internet is not working")
-
-3. Follow the guided troubleshooting steps
-
-4. If the issue is not resolved, the agent will escalate
-
-5. Link https://m365.cloud.microsoft/chat/?titleId=T_1f4561a0-06e6-5f12-b3bc-4228394e097c&source=embedded-builder 
-
-
+## How It Works
+1. User starts a conversation with the Copilot Agent
+2. User describes their IT issue
+3. The agent provides step-by-step troubleshooting guidance
+4. If the issue is not resolved, the agent escalates it
+5. The system classifies the ticket automatically
+6. Link https://m365.cloud.microsoft/chat/?titleId=T_1f4561a0-06e6-5f12-b3bc-4228394e097c&source=embedded-builder
 
 ---
-
-
 
 ## Troubleshooting Flows
 
-
-
-### 1. Internet Issue
-
-- Checks Wi-Fi connection
-
-- Tests website access
-
+### 1. Internet Issues
+- Checks Wi-Fi or network connection
+- Tests internet access
 - Suggests router restart
-
 - Escalates if unresolved
-
-
 
 ### 2. Slow Computer
-
-- Checks running programs
-
-- Suggests closing apps
-
-- Suggests restart
-
+- Checks running applications
+- Suggests closing unnecessary programs
+- Recommends restarting the device
 - Escalates if unresolved
 
-
-
-### 3. Login Issue
-
-- Verifies credentials
-
+### 3. Login Problems
+- Verifies username and password
 - Suggests password reset
-
 - Checks account status
-
 - Escalates if unresolved
 
-
-
-### 4. Email Issue
-
-- Identifies email type
-
-- Checks connection
-
-- Checks send/receive issues
-
+### 4. Email Issues
+- Identifies email service
+- Checks internet connection
+- Troubleshoots send/receive errors
 - Escalates if unresolved
-
-
 
 ---
-
-
 
 ## Ticket Classification
-
-The agent analyzes user input and outputs:
-
+The agent automatically classifies support requests:
 - Issue category
-
 - Priority level
-
 - Recommended support team
-
 - Summary of the issue
 
-
-
 ---
 
-
-
-## Architecture (Simple)
-
-User → Copilot Agent → Troubleshooting Flow →  
-
-→ Resolved OR → Escalation + Ticket Classification
-
-
+## Architecture (Simple Flow)
+User → Copilot Agent → Troubleshooting Flow →
+Resolved OR Escalation → Ticket Classification → IT Support Team
 
 ---
-
-
 
 ## Testing
+The agent was tested using multiple real-world scenarios:
+- Internet connectivity issues
+- Slow device performance
+- Login failures
+- Email sending/receiving problems
 
-The agent was tested using different scenarios:
-
-- Internet not working
-
-- Slow performance
-
-- Login failure
-
-- Email issues
-
-
-
-All flows successfully guided the user and escalated when needed.
-
-
+All scenarios successfully triggered correct troubleshooting paths and escalation when needed.
 
 ---
-
-
 
 ## Screenshots
-
 (Add your screenshots here)
 
-
-
 ---
-
-
 
 ## Knowledge Base
-
-SOP documents include:
-
-- Password reset
-
-- VPN setup
-
-- Printer setup
-
-- Outlook setup
-
-- Device compliance
-
+The agent uses SOP documents including:
+- Password reset guide
+- VPN setup guide
+- Printer setup guide
+- Outlook configuration guide
+- Device compliance procedures
 
 
 ---
 
-
-
 ## Conclusion
-
-This project demonstrates how AI can automate Tier-1 IT support by guiding users, solving common issues, and reducing workload for IT teams.
+This project demonstrates how AI can automate Tier-1 IT support by guiding users through troubleshooting, resolving common issues, and reducing workload for IT teams.
