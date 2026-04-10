@@ -55,7 +55,7 @@ The agent helps users troubleshoot common IT issues, provides step-by-step solut
 
 4. If the issue is not resolved, the agent will escalate
 
-5. Link https://teams.cloud.microsoft/l/message/19:1abeee76-2e2a-4e6e-a57c-974fd82fbdd1_3161fa7e-461e-4d63-b977-4256072a6ec9@unq.gbl.spaces/1775727439167?context=%7B%22contextType%22%3A%22chat%22%7D 
+5. Link https://m365.cloud.microsoft/chat/?titleId=T_1f4561a0-06e6-5f12-b3bc-4228394e097c&source=embedded-builder 
 
 
 
