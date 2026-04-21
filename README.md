@@ -98,5 +98,19 @@ The agent uses SOP documents including:
 
 ---
 
+## 🎤 Project Presentation
+
+This presentation explains my IT Support Copilot Agent project.
+It shows what the agent does, how it works, and how it helps users fix common IT problems.
+
+The presentation also shows examples like:
+- Internet issues
+- Slow computer
+- Email problems
+- Ticket classification
+- View Presentation https://tinyurl.com/Copilot-Agent-Presentation
+ 
+---
+
 ## Conclusion
 This project demonstrates how AI can automate Tier-1 IT support by guiding users through troubleshooting, resolving common issues, and reducing workload for IT teams.
