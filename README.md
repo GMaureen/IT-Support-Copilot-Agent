@@ -98,7 +98,7 @@ The agent uses SOP documents including:
 
 ---
 
-## 🎤 Project Presentation
+## Project Presentation
 
 This presentation explains my IT Support Copilot Agent project.
 It shows what the agent does, how it works, and how it helps users fix common IT problems.
